@@ -16,16 +16,28 @@
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages**:  
-  - Swift, SwiftUI, Objective-C  
+- **iOS Development Expertise**:  
+  - Swift, Objective-C, SwiftUI, UIKit, Core Data, Core Animation, Core Graphics, Core Location, ARKit, AVFoundation  
+  - iOS SDK, API Integration (RESTful services), MVVM, MVC  
+  - Storyboard, Programmatic UI Design, UX Design, Apple Human Interface Guidelines  
+
 - **Development Tools**:  
-  - Xcode, Git, Fastlane  
-- **Frameworks**:  
-  - UIKit, CoreData, Alamofire
-- **Testing**:  
-  - UI/Unit Testing, XCTest  
-- **Cloud Services**:  
-  - Firebase, AWS, Pusher
+  - Xcode, Instruments (Performance Profiling), CocoaPods, Carthage, Swift Package Manager (SPM), Fastlane  
+
+- **Testing & Debugging**:  
+  - XCTest, XCUITest, UI Testing, Unit Testing, Bug Fixing  
+
+- **Cloud & Backend Integration**:  
+  - Firebase, Realm, Postman (API Testing), Swagger  
+
+- **Collaboration & Version Control**:  
+  - Git, GitHub, Bitbucket, TestFlight, Crashlytics  
+
+- **Project Management**:  
+  - Jira, Agile Methodologies (Scrum), Slack  
+
+- **Special Features**:  
+  - Video Call Integration (Custom VoIP), Performance Optimization, App Store Deployment  
 
 ---
 
