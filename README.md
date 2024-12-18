@@ -41,7 +41,7 @@
 
 - 📧 Email: [er.mehulthakkar@gmail.com](mailto:er.mehulthakkar@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/mehulthakkar95](https://linkedin.com/in/mehulthakkar95)
-- 📞 Phone/WhatsApp: [+91-8141198598](tel:+918141198598)
+- 📞 Phone/WhatsApp: [+91-8141198598]
 
 ---
 
